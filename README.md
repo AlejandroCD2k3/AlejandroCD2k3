@@ -1,8 +1,6 @@
-<div style="position: relative; text-align: center; color: white;">
-  <img src="https://via.placeholder.com/800x200/4A90E2/FFFFFF?text=Welcome+to+my+GitHub!+%F0%9F%98%8A" alt="Welcome to my GitHub" style="width: 100%; height: auto;">
-  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); font-size: 24px; font-weight: bold;">
-    Welcome to my GitHub! 😊
-  </div>
+<div style="background-color: #4A90E2; padding: 40px; text-align: center; color: white; border-radius: 10px;">
+  <h1 style="font-size: 36px; margin: 0;">Welcome to my GitHub! 😊</h1>
+  <p style="font-size: 18px; margin: 10px 0;">Explore my projects and contributions.</p>
 </div>
 
 # 👩‍💻 Alejandro Cely - Systems and Software Engenieer (In progress! :D) 🎓

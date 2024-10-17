@@ -2,7 +2,7 @@
   <img src="https://via.placeholder.com/800x200?text=Welcome+to+my+GitHub!+%F0%9F%98%8A" alt="Welcome to my GitHub">
 </div>
 
-# 👩‍💻 Alejandro - Systems and Software Engenieer (In progress! :D) 🎓
+# 👩‍💻 Alejandro Cely - Systems and Software Engenieer (In progress! :D) 🎓
 
 ¡Hi! i'm **Alejandro**, a Systems and Software engenieer from **Francisco José de Caldas District University**. My passion for technology, learning, and software development has driven me to explore various tools and languages. Over the years, I have continuously improved my skills to create innovative solutions. 🚀
 

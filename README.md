@@ -1,6 +1,5 @@
 <div style="background-color: #4A90E2; padding: 40px; text-align: center; color: white; border-radius: 10px;">
-  <h1 style="font-size: 36px; margin: 0;">Welcome to my GitHub! 😊</h1>
-  <p style="font-size: 18px; margin: 10px 0;">Explore my projects and contributions.</p>
+  <h1 style="font-size: 36px; margin: 0;">Welcome to my GitHub! </h1>
 </div>
 
 # 👩‍💻 Alejandro Cely - Systems and Software Engenieer (In progress! :D) 🎓

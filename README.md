@@ -55,14 +55,7 @@ I am currently improving my skills in:
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
--->
----
 
-<div align="center">
-  <img src="https://via.placeholder.com/800x150?text=Gracias+por+visitar+mi+perfil!+%F0%9F%98%8A" alt="Gracias por visitar mi perfil!">
-</div>
-
-<!--
 **AlejandroCD2k3/AlejandroCD2k3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

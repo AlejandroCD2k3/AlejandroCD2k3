@@ -2,7 +2,7 @@
   <h1 style="font-size: 36px; margin: 0;">Welcome to my GitHub! </h1>
 </div>
 
-# 👩‍💻 Alejandro Cely - Systems and Software Engenieer (In progress! :D) 🎓
+# 👩‍💻 Alejandro Cely - Systems and Software Engenieer 🎓
 
 ¡Hi! i'm **Alejandro**, a Systems and Software engenieer from **Francisco José de Caldas District University**. My passion for technology, learning, and software development has driven me to explore various tools and languages. Over the years, I have continuously improved my skills to create innovative solutions. 🚀
 

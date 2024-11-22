@@ -48,7 +48,7 @@
   <img src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
 </p>
 
-### Modeling and Project Management Tools
+### Modeling and Project Management tools
 <p>
   <img src="https://img.shields.io/badge/ArchiMate-%23239679.svg?style=for-the-badge&logo=archimate&logoColor=white" alt="ArchiMate">
   <img src="https://img.shields.io/badge/UML-%23F77F00.svg?style=for-the-badge&logo=uml&logoColor=white" alt="UML">

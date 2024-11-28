@@ -55,7 +55,7 @@
   <img src="https://img.shields.io/badge/MS%20Project-%230078D4.svg?style=for-the-badge&logo=microsoft-project&logoColor=white" alt="MS Project">
 </p>
 
----
+----
 
 ## 🌱 **¿What i'm learning?**
 I am currently improving my skills in:
@@ -65,7 +65,7 @@ I am currently improving my skills in:
 - **Machine learning and neural networks**
 - **Cloud computing**
 
----
+----
 <!--
 ## 📫 **Contact with me**
 <p>

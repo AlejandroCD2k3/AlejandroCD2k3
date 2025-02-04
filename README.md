@@ -56,6 +56,7 @@
   <img src="https://img.shields.io/badge/ArchiMate-%23239679.svg?style=for-the-badge&logo=archimate&logoColor=white" alt="ArchiMate">
   <img src="https://img.shields.io/badge/UML-%23F77F00.svg?style=for-the-badge&logo=uml&logoColor=white" alt="UML">
   <img src="https://img.shields.io/badge/MS%20Project-%230078D4.svg?style=for-the-badge&logo=microsoft-project&logoColor=white" alt="MS Project">
+  <img src="https://img.shields.io/badge/Enterprise%20Architect-%23000D57.svg?style=for-the-badge&logo=enterprise-architect&logoColor=white" alt="Enterprise Architect">
 </p>
 
 ### IaaS (Infrastructure as a Service) Tools  

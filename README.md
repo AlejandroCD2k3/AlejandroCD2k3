@@ -58,6 +58,11 @@
   <img src="https://img.shields.io/badge/MS%20Project-%230078D4.svg?style=for-the-badge&logo=microsoft-project&logoColor=white" alt="MS Project">
 </p>
 
+### IaaS (Infrastructure as a Service) Tools  
+<p>
+  <img src="https://img.shields.io/badge/Terraform-%2369B8FF.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform">
+</p>
+
 ----
 
 ## 🌱 **¿What i'm learning?**
@@ -69,27 +74,3 @@ I am currently improving my skills in:
 - **Cloud computing**
 
 ----
-<!--
-## 📫 **Contact with me**
-<p>
-  <a href="https://www.linkedin.com/in/tu-linkedin/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:tu-email@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
-
-**AlejandroCD2k3/AlejandroCD2k3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

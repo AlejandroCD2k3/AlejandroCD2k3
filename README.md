@@ -1,6 +1,9 @@
-<div style="background-color: #4A90E2; padding: 40px; text-align: center; color: white; border-radius: 10px;">
-  <h1 style="font-size: 36px; margin: 0;">Welcome to my GitHub! </h1>
-</div>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=300&duration=1000&center=true&vCenter=true&repeat=true&width=400&height=50&color=FF5733&color=33FF57&color=3380FF&lines=Alejandro+Cely;Welcome+to+my+GitHub" alt="Typing SVG" />
+  </a>
+</p>
+
 
 # 👩‍💻 Alejandro Cely - Systems and Software Engenieer 🎓
 

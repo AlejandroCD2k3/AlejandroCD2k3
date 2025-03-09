@@ -66,6 +66,17 @@
 
 ----
 
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+  <a href="https://github.com/AlejandroCD2k3">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlejandroCD2k3&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlejandroCD2k3&layout=compact&langs_count=10&theme=radical"/>
+  </a>
+</p>
+
+----
+
 ## 🌱 **¿What i'm learning?**
 I am currently improving my skills in:
 - **Web development with modern frameworks**

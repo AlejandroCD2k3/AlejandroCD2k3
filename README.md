@@ -80,7 +80,7 @@
 ## 🌱 **¿What i'm learning?**
 I am currently improving my skills in:
 - **Web development with modern frameworks**
-- **Backend development using FastAPI**
+- **Backend development using up-to-date tools.**
 - **Database optimization and complex query design**
 - **Machine learning and neural networks**
 - **Cloud computing**

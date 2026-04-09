@@ -7,11 +7,11 @@
 
 # 👩‍💻 Alejandro Cely - Systems and Software Engenieer 🎓
 
-¡Hi! i'm **Alejandro**, a Systems and Software engenieer from **Francisco José de Caldas District University**. My passion for technology, learning, and software development has driven me to explore various tools and languages. Over the years, I have continuously improved my skills to create innovative solutions. 🚀
+¡Hi! i'm **Alejandro**, a Systems and Software engenieer from **Francisco José de Caldas District University**. My passion for technology, learning, and software development has driven me to explore various tools and languages. Over the years, I have continuously improved my skills to create innovative solutions.
 
 ---
 
-## 🛠️ **TOOLS AND TECHNOLOGIES**
+## **TOOLS AND TECHNOLOGIES**
 ### Programming languages
 <p>
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java">
@@ -66,7 +66,7 @@
 
 ----
 
-### ⚙️ &nbsp;GitHub Analytics
+### &nbsp;GitHub Analytics
 
 <p align="center">
   <a href="https://github.com/AlejandroCD2k3">
@@ -77,7 +77,7 @@
 
 ----
 
-## 🌱 **¿What i'm learning?**
+## **¿What i'm learning?**
 I am currently improving my skills in:
 - **Web development with modern frameworks**
 - **Backend development using up-to-date tools**
